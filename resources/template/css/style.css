@@ -10932,6 +10932,20 @@ footer .widget_services ul li:hover {
     background-position: center;
     padding: 100px 0 100px;
 }
+@media only screen and (max-width: 991px) {
+.bungkus {
+    background-color: #004085;
+    /* border: 15px solid black; */
+    padding: 50px;
+    margin: 50px;
+    }
+}
+.bungkus {
+    background-color: #004085;
+    /* border: 15px solid black; */
+    padding: 50px;
+    margin: 50px;
+    }
 .footer-bottom {
     background-color:#fff;
     padding: 25px 0;
@@ -11123,7 +11137,7 @@ footer.footer-white .footer-bottom a {
     position: relative;
 }
 .section-full:last-child {
-    margin-bottom: -50px;
+    /* margin-bottom: -50px; */
 }
 /*= Section Head Part =*/
 
@@ -12469,8 +12483,8 @@ ol.commentlist li .star-rating {
 	padding-bottom:50px;
 }
 .content-inner-1{
-	padding-top:80px;
-	padding-bottom:0px;
+	padding-top:50px;
+	padding-bottom:50px;
 }
 .content-inner-2{
 	padding-top:80px;
@@ -13921,3 +13935,4 @@ pre {
 		width:100%;
 	}
 }
+
